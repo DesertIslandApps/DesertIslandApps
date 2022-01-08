@@ -1,4 +1,4 @@
-# DesertIslandJulia
+# 🏝 DesertIslandJulia 🏝
 
 A list of resources about the Julia language
 
