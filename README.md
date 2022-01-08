@@ -2,7 +2,7 @@
 
 Which apps/libraries/packages would you take to a desert island? We share the softwares of our lives (and welcome contributions!).
 
-This account is named after the BBC programme
+This repo is named after the BBC programme
 [Desert Island Discs](https://www.bbc.co.uk/programmes/b006qnmr). We collect
 awesome-like lists. Only, we call them differently!
 
