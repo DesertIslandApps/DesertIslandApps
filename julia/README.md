@@ -175,6 +175,11 @@ A list of resources about the Julia language
   optimization.  It interacts with various convex optimization solvers for
   solving linear programming (LP), second-order cone programming (SOCP),
   semi-definite programming (SDP), etc.
+- [GalacticOptim.jl](https://github.com/SciML/GalacticOptim.jl) is a package
+  with a scope that is beyond your normal global optimization package.
+  GalacticOptim.jl seeks to bring together all of the optimization packages
+  it can find, local and global, into one unified Julia interface.
+  
 
 ### Sources of inspiration
 
