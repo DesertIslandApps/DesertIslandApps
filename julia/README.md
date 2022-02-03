@@ -165,12 +165,8 @@ A list of resources about the Julia language
   element discretizations, on structured and unstructured meshes of simplices
   and hexahedra.
 
-#### Others
+#### Optimization
 
-- [BifurcationKit.jl](https://github.com/rveltz/BifurcationKit.jl) aims at
-  performing **automatic bifurcation analysis** of large dimensional equations
-  F(u, λ)=0 where λ∈ℝ by taking advantage of iterative methods, sparse
-  formulation and specific hardwares (e.g. GPU).
 - [JuMP.jl](https://jump.dev/) offers a modelling language for mathematical
   optimization.  It interacts with various convex optimization solvers for
   solving linear programming (LP), second-order cone programming (SOCP),
@@ -180,6 +176,21 @@ A list of resources about the Julia language
   GalacticOptim.jl seeks to bring together all of the optimization packages
   it can find, local and global, into one unified Julia interface.
   
+#### Automatic differentiation
+
+- [JuliaDiff](https://github.com/JuliaDiff): Differentiation Tools in Julia. 
+- [Zygote.jl](https://github.com/FluxML/Zygote.jl) provides source-to-source
+  automatic differentiation (AD) in Julia, and is the next-gen AD system for the
+  [Flux](https://github.com/FluxML/Flux.jl) differentiable programming framework.
+
+  
+#### Others
+
+- [BifurcationKit.jl](https://github.com/rveltz/BifurcationKit.jl) aims at
+  performing **automatic bifurcation analysis** of large dimensional equations
+  F(u, λ)=0 where λ∈ℝ by taking advantage of iterative methods, sparse
+  formulation and specific hardwares (e.g. GPU).
+
 
 ### Sources of inspiration
 
