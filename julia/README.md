@@ -149,6 +149,12 @@ A list of resources about the Julia language
 - [Franklin.jl](https://franklinjl.org/) is a simple, customisable static site
   generator oriented towards technical blogging and light, fast-loading pages.
 
+#### Rich text output and text-based user interfaces (TUI)
+
+- [Term.jl](https://github.com/FedeClaudi/Term.jl) is a package inspired by WIll
+  McGougan’s [rich](https://github.com/Textualize/rich) package in Python to
+  produce stylized, structured output for your terminal, in Julia.
+
 #### Finite elements
 
 - [JuAFEM.jl](https://kristofferc.github.io/JuAFEM.jl/latest/) is a finite
@@ -175,15 +181,14 @@ A list of resources about the Julia language
   with a scope that is beyond your normal global optimization package.
   GalacticOptim.jl seeks to bring together all of the optimization packages
   it can find, local and global, into one unified Julia interface.
-  
+
 #### Automatic differentiation
 
-- [JuliaDiff](https://github.com/JuliaDiff): Differentiation Tools in Julia. 
+- [JuliaDiff](https://github.com/JuliaDiff): Differentiation Tools in Julia.
 - [Zygote.jl](https://github.com/FluxML/Zygote.jl) provides source-to-source
   automatic differentiation (AD) in Julia, and is the next-gen AD system for the
   [Flux](https://github.com/FluxML/Flux.jl) differentiable programming framework.
 
-  
 #### Others
 
 - [BifurcationKit.jl](https://github.com/rveltz/BifurcationKit.jl) aims at
