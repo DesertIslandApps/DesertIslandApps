@@ -122,6 +122,12 @@ A list of resources about the Julia language
   [Gadfly](https://github.com/GiovineItalia/Gadfly.jl).
 - [Cairo.jl](https://github.com/JuliaGraphics/Cairo.jl) – Bindings to the Cairo
   graphics library
+- [ElectronDisplay.jl](https://github.com/queryverse/ElectronDisplay.jl)
+  provides a display for figures, plots and tables. When you load the package,
+  it will push a new display onto the julia display stack and from then on it
+  will display any value that can be rendered as png, svg, vega, vega-lite or
+  plotly in an electron based window. This is especially handy when one works on
+  the REPL and wants plots or tables to show up in a nice window.
 
 #### Julia 💓 LaTeX
 
