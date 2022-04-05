@@ -14,9 +14,10 @@ A list of resources about the Julia language
 ### Videos
 
 - [Intro to Julia tutorial (version 1.0) by Jane Herriman](https://youtu.be/8h8rQyEpiZA)
+- [The Unreasonable Effectiveness of Multiple Dispatch](https://www.youtube.com/watch?v=kc9HwsxE1OY)
 - [Developing Julia Packages](https://youtu.be/QVmU29rCjaA)
 - [Automatic Differentiation with Julia](https://youtu.be/vAp6nUMrKYg)
-- [The Unreasonable Effectiveness of Multiple Dispatch](https://www.youtube.com/watch?v=kc9HwsxE1OY)
+- [State of SciML in 2022](https://www.youtube.com/watch?v=eSeY4K4bITI&t=14s)
 
 ### Books
 
@@ -160,6 +161,24 @@ A list of resources about the Julia language
 - [Term.jl](https://github.com/FedeClaudi/Term.jl) is a package inspired by WIll
   McGougan’s [rich](https://github.com/Textualize/rich) package in Python to
   produce stylized, structured output for your terminal, in Julia.
+  
+#### General scientific libraries
+
+- [SciML](https://github.com/SciML) gathers many libraries of scientific calculation
+  such as
+   - [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) 
+     for solving differential equations.
+   - [Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) is a fast
+     and modern Computer Algebra System (CAS). Note that this library aims at 
+     providing expressions finally dedicated to numerical computation and not
+     pure formal computation.
+   - [ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) is a 
+     modeling framework for high-performance symbolic-numeric computation in 
+     scientific computing and scientific machine learning.
+   - [GalacticOptim.jl](https://github.com/SciML/GalacticOptim.jl) is a package
+     with a scope that is beyond your normal global optimization package.
+     GalacticOptim.jl seeks to bring together all of the optimization packages
+     it can find, local and global, into one unified Julia interface.
 
 #### Finite elements
 
@@ -183,10 +202,6 @@ A list of resources about the Julia language
   optimization.  It interacts with various convex optimization solvers for
   solving linear programming (LP), second-order cone programming (SOCP),
   semi-definite programming (SDP), etc.
-- [GalacticOptim.jl](https://github.com/SciML/GalacticOptim.jl) is a package
-  with a scope that is beyond your normal global optimization package.
-  GalacticOptim.jl seeks to bring together all of the optimization packages
-  it can find, local and global, into one unified Julia interface.
 
 #### Automatic differentiation
 
