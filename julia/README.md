@@ -18,6 +18,7 @@ A list of resources about the Julia language
 - [Developing Julia Packages](https://youtu.be/QVmU29rCjaA)
 - [Automatic Differentiation with Julia](https://youtu.be/vAp6nUMrKYg)
 - [State of SciML in 2022](https://www.youtube.com/watch?v=eSeY4K4bITI&t=14s)
+- [Intro to solving differential equations in Julia](https://www.youtube.com/watch?v=KPEqYtEd-zY)
 
 ### Books
 
