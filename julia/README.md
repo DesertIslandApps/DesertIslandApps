@@ -13,7 +13,7 @@ A list of resources about the Julia language
   !!! note Under Windows but access denied to the Windows store
       follow the instructions provided [here](https://discourse.julialang.org/t/looking-for-feedback-from-users-that-currently-cant-install-juliaup-from-the-windows-store/85507), namely
 
-        1. Download [https://install.julialang.org/Julia.appinstaller]( https://install.julialang.org/Julia.appinstaller)
+        1. Download [https://install.julialang.org/Julia.appinstaller](https://install.julialang.org/Julia.appinstaller)
 
         1. Execute the code under Powershell
 
