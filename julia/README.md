@@ -4,6 +4,23 @@ A list of resources about the Julia language
 
 ## References
 
+### Installation
+
+- [Classical setup from individual installer](https://julialang.org/downloads/)
+
+- Setup from [Juliaup](https://github.com/JuliaLang/juliaup)
+
+  !!! danger Under Windows but access denied to the Windows store
+      Follow the instructions provided [here](https://discourse.julialang.org/t/looking-for-feedback-from-users-that-currently-cant-install-juliaup-from-the-windows-store/85507), namely
+
+        1. Download [https://install.julialang.org/Julia.appinstaller]( https://install.julialang.org/Julia.appinstaller)
+
+        1. Execute the code under Powershell
+
+          ```shell
+          PS [path] Add-AppxPackage -AppInstallerFile Julia.appinstaller
+          ```
+
 ### Websites
 
 - [Julia documentation](https://docs.julialang.org/)
