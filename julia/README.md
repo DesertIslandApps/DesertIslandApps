@@ -108,6 +108,10 @@ A list of resources about the Julia language
 
 ## Libraries
 
+See also the following lists
+
+- [Packages all Julians should know about?](https://discourse.julialang.org/t/packages-all-julians-should-know-about/88099) (Julia discourse)
+
 #### General purpose
 
 - [StaticArrays](https://github.com/JuliaArrays/StaticArrays.jl):
@@ -178,19 +182,19 @@ A list of resources about the Julia language
 - [Term.jl](https://github.com/FedeClaudi/Term.jl) is a package inspired by WIll
   McGougan’s [rich](https://github.com/Textualize/rich) package in Python to
   produce stylized, structured output for your terminal, in Julia.
-  
+
 #### General scientific libraries
 
 - [SciML](https://github.com/SciML) gathers many libraries of scientific calculation
   such as
-   - [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl) 
+   - [DifferentialEquations.jl](https://github.com/SciML/DifferentialEquations.jl)
      for solving differential equations.
    - [Symbolics.jl](https://github.com/JuliaSymbolics/Symbolics.jl) is a fast
-     and modern Computer Algebra System (CAS). Note that this library aims at 
+     and modern Computer Algebra System (CAS). Note that this library aims at
      providing expressions finally dedicated to numerical computation and not
      pure formal computation.
-   - [ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) is a 
-     modeling framework for high-performance symbolic-numeric computation in 
+   - [ModelingToolkit.jl](https://github.com/SciML/ModelingToolkit.jl) is a
+     modeling framework for high-performance symbolic-numeric computation in
      scientific computing and scientific machine learning.
    - [GalacticOptim.jl](https://github.com/SciML/GalacticOptim.jl) is a package
      with a scope that is beyond your normal global optimization package.
